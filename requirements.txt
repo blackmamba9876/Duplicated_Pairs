@@ -3,4 +3,7 @@ numpy
 seaborn
 scikit-learn
 xgboost
-
+streamlit
+fuzzywuzzy
+distance
+bs4
